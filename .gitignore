@@ -1,0 +1,6 @@
+#folder logs
+Logs/
+
+#ignore only txt format 
+docs/*.txt
+
