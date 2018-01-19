@@ -2,5 +2,6 @@
 Logs/
 
 #ignore only txt format 
-docs/*.txt
+docs/*.php
+
 
