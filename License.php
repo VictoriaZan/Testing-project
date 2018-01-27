@@ -1,1 +1,3 @@
 abs
+dfg
+asin
